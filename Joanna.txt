@@ -4,3 +4,4 @@ Favorite color: pink
 Favorite color: pink
 [main ac854f0] My Favorite color is pink
  1 file changed, 3 insertions(+)
+Favorite food: Sinigang
