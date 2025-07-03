@@ -1,0 +1,10 @@
+Favorite color: pink
+[main d72890d] My Favorite color is pink
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Favorite color: pink
+[main ac854f0] My Favorite color is pink
+ 1 file changed, 3 insertions(+)
+Favorite food: Sinigang
+[main 40a9b15] My Favorite food is sinigang
+ 1 file changed, 1 insertion(+)
+hobby: dancing
